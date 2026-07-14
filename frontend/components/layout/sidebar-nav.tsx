@@ -7,6 +7,7 @@ import {
   BarChart3Icon,
   BookOpenIcon,
   ClipboardCheckIcon,
+  ConciergeBellIcon,
   FileEditIcon,
   FileTextIcon,
   HashIcon,
@@ -39,6 +40,7 @@ const NAV_SECTIONS = [
       { href: "/appeal-generator", label: "Appeal Generator", icon: FileEditIcon },
       { href: "/medical-record-review", label: "Medical Record Review", icon: FileTextIcon },
       { href: "/document-analyzer", label: "Document Analyzer", icon: ScanSearchIcon },
+      { href: "/virtual-front-desk", label: "Virtual Front Desk", icon: ConciergeBellIcon },
     ],
   },
   {

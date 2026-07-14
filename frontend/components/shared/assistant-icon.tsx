@@ -1,6 +1,7 @@
 import {
   AlertTriangleIcon,
   ClipboardCheckIcon,
+  ConciergeBellIcon,
   FileEditIcon,
   FileTextIcon,
   HashIcon,
@@ -22,6 +23,7 @@ const ICON_MAP: Record<string, React.ComponentType<LucideProps>> = {
   "file-edit": FileEditIcon,
   "file-text": FileTextIcon,
   "scan-search": ScanSearchIcon,
+  "concierge-bell": ConciergeBellIcon,
   sparkles: SparklesIcon,
 };
 
